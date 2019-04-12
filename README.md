@@ -24,3 +24,4 @@ Here's a two-minute video that walks through the code:
 To do:
 
 1) include the host name in  the log message
+# kafka-appender
